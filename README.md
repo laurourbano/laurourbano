@@ -19,7 +19,7 @@
  
 <div> 
   <a href="https://instagram.com/lauro_otavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lauro@outlook.com.br"><img src="https://ravel.com.br/blog/wp-content/uploads/2020/03/logo-outlook-300x225.jpg" target="_blank"></a>
+  <a href = "mailto:lauro@outlook.com.br"><img src="https://3.bp.blogspot.com/-lmuPYI8qbi4/USubdnzAe6I/AAAAAAAANs8/4LkrMRiEJ60/s1600/LOGO_OUTLOOK.COM.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/admeadslauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/laurourbano/laurourbano/blob/output/github-contribution-grid-snake.svg)
