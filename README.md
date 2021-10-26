@@ -19,7 +19,7 @@
  
 <div> 
   <a href="https://instagram.com/lauro_otavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lauro@outlook.com.br"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fravel.com.br%2Fblog%2Ferro-o-microsoft-outlook-nao-conseguiu-verificar-a-licenca-deste-produto%2Flogo-outlook%2F&psig=AOvVaw0Pzzy-fniLhrFlh6I7wfae&ust=1635321478490000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCWp7_N5_MCFQAAAAAdAAAAABAD" target="_blank"></a>
+  <a href = "mailto:lauro@outlook.com.br"><img src="https://ravel.com.br/blog/wp-content/uploads/2020/03/logo-outlook-300x225.jpg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/admeadslauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/laurourbano/laurourbano/blob/output/github-contribution-grid-snake.svg)
