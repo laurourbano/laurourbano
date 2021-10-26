@@ -14,7 +14,6 @@
  
 <div> 
   <a href="https://instagram.com/lauro_otavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lauro@outlook.com.br"><img src="<div>Icons made by <a href="<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="www.flaticon.com</a></div>" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title=https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/admeadslauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
