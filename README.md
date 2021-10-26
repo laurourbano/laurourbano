@@ -18,9 +18,7 @@
  
 <div> 
   <a href="https://instagram.com/lauro_otavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lauro@outlook.com.br"><img src="https://pnghut.com/png/N6BuDHW6Ke/outlook-com-microsoft-outlook-email-office-365-area-transparent-png" target="_blank"></a>
+  <a href = "mailto:lauro@outlook.com.br"><img src="<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" target="_blank"></a>
   <a href="https://www.linkedin.com/in/admeadslauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/laurourbano/laurourbano/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
