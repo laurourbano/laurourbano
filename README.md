@@ -7,10 +7,10 @@
 
   <div>
  
-    'Sobre'
+    "Sobre"
     
     
-    '- Inglês básico;'
+    "- Inglês básico;"
     
     '- Conhecimentos e cursos em programação iniciante </>:'
     '• lógica de programação,'
