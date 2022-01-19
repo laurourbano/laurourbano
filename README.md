@@ -6,7 +6,8 @@
 </div>
 
   <div>
-  Sobre
+ 
+    'Sobre
     
     
 - Inglês básico;
@@ -83,7 +84,7 @@ Mapeamento e acompanhamento de doenças e tratamentos no âmbito do Sistema Úni
 • Ronconi Industria de Colchões e Moveis
 Almoxarife
 8 meses
-Controle de entradas e saídas de estoque para indústria.
+Controle de entradas e saídas de estoque para indústria.'
 
 • Casa Marceneiro Ltda.
 Almoxarife
