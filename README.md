@@ -10,93 +10,87 @@
     Sobre Lauro Otávio Urbano
     </h1>
     
-    - Inglês básico;
+Desenvolvedor Júnior | interesse em: Python - Django | Javascript - React - VUE.JS - HTML - CSS - LESS |
 
-    - Conhecimentos e cursos em programação iniciante </>:
-      • lógica de programação,
-      • orientação a objetos,
-      • estrutura de controle e repetição,
-      • estrutura de dados,
-      • raciocínio lógico,
-      • arquitetura de computadores,
-      • git e github,
-      • linux básico,
-      • https para web básico,
-      • acessibilidade básico;
-      • hábitos: da produtividade às metas pessoais,
-    
-    - Investimento em aperfeicoamento:
-      • Assinatura do portal #Alura;
-    
-    - Conhecimentos:
-      • diversos cursos realizados pelo youtube (Curso em vídeo, Filipe Deschamps),
-      • Trello como usuario,
-      • Excel,
-      • Word,
-      • Power point,
-      • Outlook,
-      • LibreOffice,
-      • IDE PyCharm,
-      • IDE Scratch,
-      • IDE Sublime Text 3,
-      • IDE MS Visual Studio;
-    
-    - Conhecimentos e cursos em linguagens:
-      • Python 3 (linguagem de programação de alto nível),
-      • Javascript (linguagem de programação de alto nível),
-      • HTML 5 (linguagem de marcação),
-      • CSS 3 (linguagem de estilização);
-    
-    - Soft Skills:
-      • Comunicação,
-      • Inteligência emocional,
-      • Colaboração,
-      • Pensamento crítico,
-      • Empatia,    
-      • Capacidade de resolução de conflitos,    
-      • Negociação,    
-      • Adaptação,    
-      • Desenvolvimento pessoal,    
-      • Motivação,
-      • Flexibilidade no trabalho;
-    
-    - Experiência Profissional:
-      • Conselho Regional de Farmácia do Estado do Paraná
-        Duração total 9 anos 4 meses
-        Assistente administrativo (atualmente)
-        1 ano 1 mês
-        Responsável administrativo
-        1 ano 1 mês
-        Assistente administrativo
-        7 anos 3 meses
+- Inglês básico;
 
-      • Urbanização de Curitiba S/A
-        Assistente administrativo
-        2 anos 3 meses
-        Análise e cadastramento de usuários do transporte público municipal.
-        Captação e conferência de documentos, auditoria de requisitos para pedidos de isenção.
+- Conhecimentos e cursos em programação iniciante </>:
+ • lógica de programação,
+ • orientação a objetos,
+ • estrutura de controle e repetição,
+ • estrutura de dados,
+ • raciocínio lógico,
+ • arquitetura de computadores,
+ • git e github,
+ • linux básico,
+ • https para web básico,
+ • acessibilidade básico;
+ • hábitos: da produtividade às metas pessoais,
+ • Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
+ • Scrum: Agilidade em seu projeto
 
-        • Prefeitura Municipal de Pinhais
-        Funcionário de saúde
-        5 meses
-        Mapeamento e acompanhamento de doenças e tratamentos no âmbito do Sistema Único de Saúde.
 
-      • Ronconi Industria de Colchões e Moveis
-        Almoxarife
-        8 meses
-        Controle de entradas e saídas de estoque para indústria.'
+- Investimento em aperfeicoamento:
+ • Assinatura do portal #Alura;
 
-      • Casa Marceneiro Ltda.
-        Almoxarife
-        3 anos 7 meses
-        Controle de estoque loja física.
+- Conhecimentos:
+ • diversos cursos realizados pelo youtube (Curso em vídeo, Filipe Deschamps),
+ • Trello como usuario,
+ • IDE MS Visual Studio;
 
-      • OAB/PR
-        Assistente administrativo de escritório
-        1 ano 10 meses
-        Atividades administrativas em geral.
-    
-    - Portifólio de aprendizado no github: https://github.com/laurourbano
+- Conhecimentos e cursos em linguagens:
+ • Python 3 (linguagem de programação de alto nível),
+ • Javascript (linguagem de programação de alto nível),
+ • HTML 5 (linguagem de marcação),
+ • CSS 3 (linguagem de estilização);
+
+- Soft Skills:
+ • Comunicação,
+ • Inteligência emocional,
+ • Colaboração,
+ • Pensamento crítico,
+ • Empatia,
+ • Capacidade de resolução de conflitos,
+ • Negociação,
+ • Adaptação,
+ • Desenvolvimento pessoal,
+ • Motivação,
+ • Flexibilidade no trabalho;
+
+- Experiência Profissional: 
+ • Conselho Regional de Farmácia do Estado do Paraná
+ Duração total 9 anos 4 meses
+ Assistente administrativo (atualmente)
+ Assistente administrativo
+ 9 anos 
+
+ • Urbanização de Curitiba S/A
+ Assistente administrativo
+ 2 anos 3 meses
+ Análise e cadastramento de usuários do transporte público municipal.
+ Captação e conferência de documentos, auditoria de requisitos para pedidos de isenção.
+
+ • Prefeitura Municipal de Pinhais
+ Funcionário de saúde
+ 5 meses
+ Mapeamento e acompanhamento de doenças e tratamentos no âmbito do Sistema Único de Saúde.
+
+ • Ronconi Industria de Colchões e Moveis
+ Almoxarife
+ 8 meses
+ Controle de entradas e saídas de estoque para indústria.
+
+ • Casa Marceneiro Ltda.
+ Almoxarife
+ 3 anos 7 meses
+ Controle de estoque loja física.
+
+ • OAB/PR
+ Assistente administrativo de escritório
+ 1 ano 10 meses
+ Atividades administrativas em geral.
+
+- Portifólio de aprendizado no github: https://github.com/laurourbanoDesenvolvedor
   </div>
   
   <div>
