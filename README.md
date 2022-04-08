@@ -11,7 +11,7 @@
     Sobre Lauro Otávio Urbano
     </h1>
     
-Desenvolvedor Júnior | Quality Assurance Júnior | interesse em: Python - Django | Javascript - React - VUE.JS - HTML - CSS - LESS | Java - Eclipse | PHP |
+Desenvolvedor Júnior | Quality Assurance Júnior | interesse em: Python - Django | Javascript - React - VUE.JS - HTML - CSS | bootstrap - LESS | Java - Eclipse | PHP |
 
 - Inglês básico;
 
