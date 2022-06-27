@@ -91,7 +91,7 @@ Desenvolvedor Júnior | Quality Assurance Júnior | interesse em: Python - Djang
  1 ano 10 meses
  Atividades administrativas em geral.
 
-- Portifólio de aprendizado no github: https://github.com/laurourbanoDesenvolvedor
+- Portifólio de aprendizado no github: https://github.com/laurourbano Desenvolvedor
   </div>
   
   <div>
