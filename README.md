@@ -11,7 +11,7 @@
     Sobre Lauro Otávio Urbano
     </h1>
     
-Desenvolvedor Júnior | Quality Assurance Júnior | interesse em: Python - Django | Javascript - React - VUE.JS - HTML - CSS | bootstrap - LESS | Java - Eclipse | PHP |
+Desenvolvedor Júnior | Javascript - React - HTML - CSS
 
 - Inglês básico;
 
@@ -40,7 +40,6 @@ Desenvolvedor Júnior | Quality Assurance Júnior | interesse em: Python - Djang
  • IDE MS Visual Studio;
 
 - Conhecimentos e cursos em linguagens:
- • Python 3 (linguagem de programação de alto nível),
  • Javascript (linguagem de programação de alto nível),
  • HTML 5 (linguagem de marcação),
  • CSS 3 (linguagem de estilização);
@@ -58,38 +57,10 @@ Desenvolvedor Júnior | Quality Assurance Júnior | interesse em: Python - Djang
  • Motivação,
  • Flexibilidade no trabalho;
 
-- Experiência Profissional: 
+- Emprego atual: 
  • Conselho Regional de Farmácia do Estado do Paraná
- Duração total 9 anos 4 meses
+ Desde outubro de 2012 até o momento
  Assistente administrativo (atualmente)
- Assistente administrativo
- 9 anos 
-
- • Urbanização de Curitiba S/A
- Assistente administrativo
- 2 anos 3 meses
- Análise e cadastramento de usuários do transporte público municipal.
- Captação e conferência de documentos, auditoria de requisitos para pedidos de isenção.
-
- • Prefeitura Municipal de Pinhais
- Funcionário de saúde
- 5 meses
- Mapeamento e acompanhamento de doenças e tratamentos no âmbito do Sistema Único de Saúde.
-
- • Ronconi Industria de Colchões e Moveis
- Almoxarife
- 8 meses
- Controle de entradas e saídas de estoque para indústria.
-
- • Casa Marceneiro Ltda.
- Almoxarife
- 3 anos 7 meses
- Controle de estoque loja física.
-
- • OAB/PR
- Assistente administrativo de escritório
- 1 ano 10 meses
- Atividades administrativas em geral.
 
 - Portifólio de aprendizado no github: https://github.com/laurourbano Desenvolvedor
   </div>
