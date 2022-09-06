@@ -9,7 +9,7 @@
     Sobre Lauro Otávio Urbano
     </h1>
     
-Desenvolvedor Júnior | Javascript - React - HTML - CSS
+Desenvolvedor Júnior | Javascript - React - HTML - CSS - SQL - MySQL - SQLserver
 
 - Inglês básico;
 
