@@ -9,7 +9,9 @@
 <p>Atualmente, trabalho como assistente administrativo no Conselho Regional de Farmácia do Estado do Paraná desde outubro de 2012, mas estou sempre buscando novas oportunidades de crescimento e desenvolvimento como desenvolvedor.</p>
 
 <p>Confira meu portfólio de aprendizado no GitHub: https://github.com/laurourbano</p>
-  
+
+[  ](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
   <div>
     <a href="https://instagram.com/lauro_otavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/admeadslauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
