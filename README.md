@@ -77,6 +77,4 @@ Confira meu portfólio de aprendizado no [GitHub](https://github.com/laurourbano
 
 ## Contato
 
-Você pode entrar em contato comigo através do meu e-mail: [seu.email@example.com]
-
 Fique à vontade para me adicionar em suas redes sociais e vamos conectar!
