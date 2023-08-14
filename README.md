@@ -94,4 +94,4 @@ Confira meu portfólio de aprendizado no [GitHub](https://github.com/laurourbano
 
 ## Contato
 
-Fique à vontade para me adicionar em suas redes sociais e vamos conectar!
+Fique à vontade para me adicionar em suas redes sociais e entrar em contato!
