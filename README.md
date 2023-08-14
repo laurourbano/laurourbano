@@ -70,17 +70,7 @@ Atualmente, trabalho como assistente administrativo no Conselho Regional de Farm
 
 ## Soft Skills
 
-- Comunicação
-- Inteligência Emocional
-- Colaboração
-- Pensamento Crítico
-- Empatia
-- Resolução de Conflitos
-- Negociação
-- Adaptação
-- Desenvolvimento Pessoal
-- Motivação
-- Flexibilidade no Trabalho
+- Comunicação - Inteligência Emocional - Colaboração - Pensamento Crítico - Empatia - Resolução de Conflitos - Negociação - Adaptação - Desenvolvimento Pessoal - Motivação - Flexibilidade no Trabalho
 
 ## Notebook Utilizado para Praticar Programação
 
