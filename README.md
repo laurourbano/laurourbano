@@ -8,7 +8,7 @@ Atualmente, trabalho como assistente administrativo no Conselho Regional de Farm
 
 ## Formação Acadêmica
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, Cruzeiro do Sul (Concluído em [data da conclusão])
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, Cruzeiro do Sul (Concluído em 2022)
 
 ## Tecnologias que Trabalho e Estudo
 
