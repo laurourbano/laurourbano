@@ -76,7 +76,7 @@ Atualmente, trabalho como assistente administrativo no Conselho Regional de Farm
 
 <span>
 <img src="https://img.shields.io/badge/Lenovo%20Ideapad%20320%20I7%20HD1TB%20SSD256GB%20RAM20GB%20NVIDIA%20GeForce%20940MX-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
-<p>Lenovo ideapad 320 I7 hd1tb ssd256gb memória ram 20gb</p>
+<p>Lenovo ideapad 320 I7 hd1tb ssd256gb memória ram 20gb placa de vídeo GeForce 940mx</p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <p>Windows 10</p>
 </span>
